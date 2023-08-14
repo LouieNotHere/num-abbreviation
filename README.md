@@ -14,14 +14,14 @@ You can also put values with any number value, why not try it yourself?
 
 for any confusion about the abbreviations
 
-De = Decillion
-Vg = Vigintillion
-Tg = Trigintillion
-qg = Quadrigintillion
-Qg = Quingintillion
-sg = Segintillion
-Sg = Sepgintillion
-Og = Ocgintillion
-No = Nogintillion
-Ce = Centillion
+De = Decillion<br>
+Vg = Vigintillion<br>
+Tg = Trigintillion<br>
+qg = Quadrigintillion<br>
+Qg = Quingintillion<br>
+sg = Segintillion<br>
+Sg = Sepgintillion<br>
+Og = Ocgintillion<br>
+Ng = Nogintillion<br>
+Ce = Centillion<br>
 Du = Ducentillion
