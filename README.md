@@ -7,3 +7,5 @@ What does this exactly do? This can especially be used for html projects, or oth
 With this script, you can make any value with the `abbreviateNumber()` function, but make sure the value is inside the parentheses of the function.
 
 You can also put values with any number value, why not try it yourself?
+
+[you can click here to see the contents of the script](/src/main.js)
