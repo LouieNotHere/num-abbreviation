@@ -39,7 +39,17 @@ function abbreviateNumber(value) {
     "sgTCe", "UsgTCe", "DsgTCe", "TsgTCe", "QdsgTCe", "QnsgTCe", "SxsgTCe", "SpsgTCe", "OcsgTCe", "NosgTCe",
     "SgTCe", "USgTCe", "DSgTCe", "TSgTCe", "QdSgTCe", "QnSgTCe", "SxSgTCe", "SpSgTCe", "OcSgTCe", "NoSgTCe",
     "OgTCe", "UOgTCe", "DOgTCe", "TOgTCe", "QdOgTCe", "QnOgTCe", "SxOgTCe", "SpOgTCe", "OcOgTCe", "NoOgTCe",
-    "NgTCe", "UNgTCe", "DNgTCe", "TNgTCe", "QdNgTCe", "QnNgTCe", "SxNgTCe", "SpNgTCe", "OcNgTCe", "NoNgTCe"];
+    "NgTCe", "UNgTCe", "DNgTCe", "TNgTCe", "QdNgTCe", "QnNgTCe", "SxNgTCe", "SpNgTCe", "OcNgTCe", "NoNgTCe",
+    "QCe", "UQCe", "DQCe", "TQCe", "QdQCe", "QnQCe", "SxQCe", "SpQCe", "OcQCe", "NoQCe",
+    "DeQCe", "UDeQCe", "DDeQCe", "TDeQCe", "QdDeQCe", "QnDeQCe", "SxDeQCe", "SpDeQCe", "OcDeQCe", "NoDeQCe",
+    "VgQCe", "UVgQCe", "DVgQCe", "TVgQCe", "QdVgQCe", "QnVgQCe", "SxVgQCe", "SpVgQCe", "OcVgQCe", "NoVgQCe",
+    "TgQCe", "UTgQCe", "DTgQCe", "QdTgQCe", "QnTgQCe", "SxTgQCe", "SpTgQCe", "OcTgDe", "NoTgQCe",
+    "qgQCe", "UqgQCe", "DqgQCe", "TqgQCe", "QdqgQCe", "QnqgQCe", "SxqgQCe", "SpqgQCe", "OcqgQCe", "NoqgQCe",
+    "QgQCe", "UQgQCe", "DQgQCe", "TQgQCe", "QdQgQCe", "QnQgQCe", "SxQgQCe", "SpQgQCe", "OcQgQCe", "NoQgQCe",
+    "sgQCe", "UsgQCe", "DsgQCe", "TsgQCe", "QdsgQCe", "QnsgQCe", "SxsgQCe", "SpsgQCe", "OcsgQCe", "NosgQCe",
+    "SgQCe", "USgQCe", "DSgQCe", "TSgQCe", "QdSgQCe", "QnSgQCe", "SxSgQCe", "SpSgQCe", "OcSgQCe", "NoSgQCe",
+    "OgQCe", "UOgQCe", "DOgQCe", "TOgQCe", "QdOgQCe", "QnOgQCe", "SxOgQCe", "SpOgQCe", "OcOgQCe", "NoOgQCe",
+    "NgQCe", "UNgQCe", "DNgQCe", "TNgQCe", "QdNgQCe", "QnNgQCe", "SxNgQCe", "SpNgQCe", "OcNgQCe", "NoNgQCe"];
     let notation = 0;
     
     while (abbreviatedValue >= 1000) {
